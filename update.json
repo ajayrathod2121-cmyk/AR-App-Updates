@@ -1,7 +1,6 @@
 {
-  "version": "1.1",
-  "build": 2,
-  "notes": "AR Trading App Update 1.1",
-  "androidUrl": "",
-  "windowsUrl": ""
+  "LatestVersion": "2.4.4",
+  "DownloadUrl": "https://drive.google.com/drive/folders/1YOUR_FOLDER_LINK_HERE",
+  "ReleaseNotes": "✅ Admin Tap 5 Times Feature\n✅ License System Fixed\n✅ Performance Improved",
+  "Mandatory": false
 }
